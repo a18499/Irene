@@ -40,6 +40,7 @@ public class GameFunction : MonoBehaviour {
     public void GameOver() //GameOver的Function
 
     {
+       
 
         IsPlaying = false; //IsPlaying設定成false，停止產生外星人
 
